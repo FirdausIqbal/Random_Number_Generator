@@ -6,7 +6,6 @@ const port = 3001;
 const app = express();
 app.use(bodyParser.urlencoded({extended:true}));
 let x =[];
-let y = [];
 
 
 // Route Home generator
