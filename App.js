@@ -55,7 +55,6 @@ const generatorNumber = (num)=>{
             
         }while(x.includes(result));
         x.push(result);
-        y.push(i+1);
     }
 };
 
